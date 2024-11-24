@@ -70,7 +70,6 @@ Recuerda, no ahondar en numero a menos de ser estrictamente necesario, dar el ou
 """
 
 
-
 RECOMENDADOR = """ Vamos a hablar en Español!
 Eres un experto analista en finanzas. Tu mision sera recibir un distintas fuentes de informacion que te proberemos y dar como output cierta informacion.
 
@@ -113,8 +112,6 @@ Sigue los siguientes pasos:
 
 Recuerda, no ahondar en numero a menos de ser estrictamente necesario, dar el output encerrado por el tag indicado, pensar paso a paso y ser critico.
 """
-
-
 
 
 PUNTAJERO = """ Vamos a hablar en Español!
